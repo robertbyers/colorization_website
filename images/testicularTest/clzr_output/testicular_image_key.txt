@@ -1,0 +1,19 @@
+Testicular Cancer Images
+1) Seminoma - Overview
+2) Mixed Tumor, Embryonal Cancer, Teratoma and Seminoma Component #1 - Overview
+3) Mixed Tumor, Embryonal Cancer, Teratoma and Seminoma Component #1 - Detail 1
+4) Mixed Tumor, Embryonal Cancer, Teratoma and Seminoma Component #1 - Detail 2
+5) Mixed Tumor, Embryonal Cancer, Teratoma and Seminoma Component #1 - Detail 3
+6) Mixed Tumor, Embryonal Cancer, Teratoma and Seminoma Component #1 - Detail 4
+7) Mixed Tumor, Embryonal Cancer, Teratoma and Seminoma Component #2 - Overview
+8) Mixed Tumor, Embryonal Cancer, Teratoma and Seminoma Component #2 - Detail 1
+9) Mixed Tumor, Embryonal Cancer, Teratoma and Seminoma Component #2 - Detail 2
+10) Mixed Tumor, Embryonal Cancer, Teratoma and Seminoma Component #2 - Detail 3
+11) Mixed Tumor, Embryonal Cancer, Teratoma and Seminoma Component #2 - Detail 4
+12) Mixed Germinal Cell Tumor, Dominating Yolk Sac Component - Overview
+13) Mixed Germinal Cell Tumor, Dominating Yolk Sac Component - Detail 1
+14) Mixed Germinal Cell Tumor, Dominating Yolk Sac Component - Detail 2
+15) Mixed Germinal Cell Tumor, Dominating Teratoma Component - Overview
+16) Mixed Germinal Cell Tumor, Dominating Teratoma Component - Detail 1
+17) Mixed Germinal Cell Tumor, Dominating Teratoma Component - Detail 2
+

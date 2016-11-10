@@ -1,0 +1,15 @@
+Breast Cancer Images
+1) Ductal Carcinoma, Grade 1, Elston-Ellis Score 4 - Overview
+2) Ductal Carcinoma, Grade 1, Elston-Ellis Score 4 - Detail 1
+3) Ductal Carcinoma, Grade 1, Elston-Ellis Score 4 - Detail 2
+4) Ductal Carcinoma, Grade 2, Elston-Ellis Score 7 - Overview
+5) Ductal Carcinoma, Grade 2, Elston-Ellis Score 7 - Detail 1
+6) Ductal Carcinoma, Grade 2, Elston-Ellis Score 7 - Detail 2
+7) Ductal Carcinoma, Grade 3, Elston-Ellis Score 9 - Overview
+8) Ductal Carcinoma, Grade 3, Elston-Ellis Score 9 - Detail 1
+9) Ductal Carcinoma, Grade 3, Elston-Ellis Score 9 - Detail 2
+10) Lobular Carcinoma, Grade 1, Elston-Ellis Score 5 - Overview 
+11) Lobular Carcinoma, Grade 1, Elston-Ellis Score 5 - Detail 1
+12) Lobular Carcinoma, Grade 1, Elston-Ellis Score 5 - Detail 2
+13) Lobular Carcinoma, Grade 1, Elston-Ellis Score 5 - Detail 3
+14) Lobular Carcinoma, Grade 1, Elston-Ellis Score 5 - Detail 4
