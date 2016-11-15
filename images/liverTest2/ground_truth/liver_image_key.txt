@@ -2,3 +2,5 @@ Liver Cancer Images
 1)  Moderately Differentiated Cholagiocellular Adenocarcinoma - Overview
 2)  Moderately Differentiated Cholagiocellular Adenocarcinoma - Detail 1
 3)  Moderately Differentiated Cholagiocellular Adenocarcinoma - Detail 2
+4)  MRI scan without contrast showing possible tumor in the liver. 20k
+5)  MRI scan of the same patient using contrast.18k

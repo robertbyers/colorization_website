@@ -1,0 +1,10 @@
+Pancreatic Cancer 1, Adrenocarcinoma
+Pancreatic Cancer 2, Adrenocarcinoma
+Pancreatic adenocarcinoma. Note the presence of necrosis and atypical cells.
+Pancreatic adenocarcinoma with a more solid pattern.
+Pancreatic adenocarcinoma with focal collection of intraglandular mucin.
+Pancreatic acinic cell carcinoma.
+Mucinous adenocarcinoma of the pancreas.
+Intraductal oncocytic papillary neoplasm of the pancreas.
+Microcystic adenoma of the pancreas.
+Acinic cell cystadenoma of the pancreas.

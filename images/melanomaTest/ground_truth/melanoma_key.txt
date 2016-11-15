@@ -1,0 +1,6 @@
+Melanoma 3, Nodular Melanoma
+Melanoma 3, Nodular Melanoma Detail 1
+Melanoma, Superficial Spreading Melanoma
+Melanoma, Superficial Spreading Melanoma Detail 1
+Melanoma 1, Superficial Spreading Melanoma
+Melanoma 1, Superficial Spreading Melanoma Detail 1
